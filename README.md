@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML and Python
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on anything that includes Python
-- 📫 How to reach me +1 (405) 514 - 9274
+- 📫 How to reach me tanner.tyra1000@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
