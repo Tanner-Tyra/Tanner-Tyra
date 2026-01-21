@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tanner-Tyra
 - 👀 I’m interested in AI/ML and Python
-- 🌱 I’m currently learning LLMs
+- 🌱 I’m currently learning the Network+ content.
 - 💞️ I’m looking to collaborate on anything that includes Python
-- 📫 How to reach me tanner.tyra1000@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
