@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tanner-Tyra
 - 👀 I’m interested in AI/ML and Python
-- 🌱 I’m currently learning the Network+ content.
 - 💞️ I’m looking to collaborate on anything that includes Python
 - 😄 Pronouns: He/Him
 
